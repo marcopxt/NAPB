@@ -14,35 +14,30 @@ Hybrid prediction through genomic selection (GS) is a tool that can reduce time 
 
 A total of 513 hybrids were created from a collaboration between the University of Florida and University of Wisconsin sweet corn breeding programs. Hybrids were assessed in three locations - Florida (FL), California (CA), and Wisconsin (WI) - in two consecutive years (2020-21). We compare the ability of two GS models (genomic best linear unbiased prediction -GBLUP- and reproducing kernel Hilbert space -RKHS) in single- and multi-trait framework (STM and MTM) for hybrid prediction. The models used accounted for additive (A) and additive + dominance (AD) effects. The traits assessed were as followed:
 
-|    mar    |    fr     |Environmen |      uy   |
-| --------- | --------- | --------- | --------- | 
-| Traits    |	Florida	  | California|	Wisconsin |
-|EL         |	√         |	√	        |√          |
-|EW         |	√	        |√          |	√         |
-|TPF        |	√         |	√         |	√         |
-|STAND      |	√         |	√	        | -         |
-|DTP        |	 -        |	√	        |√          |
-|HP	        | -         |	√	        |√          |
-|KRN        |	 -        |	 -        |√          | 
-|PH	        | -         |	√	        | -         |
-|EH         |	 -        |	√	        | -         |
-|SOL        |	√	        | -	        |-          |
-|TP         |	√	        | -	        | -         |
-|CUR        |	√	        | -	        | -         |
-|DTS        |	 -        |	 -        |	√         |
-|HAP        |	 -        | -         |	√         |
-|RAP        |	 -        | -         |	√         |  
-|ES         |	 -        |	 -        |√          |
-|CR	        | -	        | -	        |√          |
-|FL         |	 -        |	 -        |√          |
-|TXT        |	 -        | -         |	√         |
-|RT         |	 -        | -	        |√          |
+|        Traits        |  Short    |	Florida	 | California |	Wisconsin |
+| -------------------  | --------- | --------- | ---------- | --------- | 
+| Ear length           |    EL     |	 √       |	 √        |   √       |
+| Ear width            |    EW     |	 √       |   √        |	  √       |
+| Tip fill             |    TPF    |	 √       |	 √        |	  √       |
+| Stand count          |   STAND   |	 √       |	 √        |   -       |
+| Days to pollination  |    DTP    |	 -       |	 √        |   √       |
+| Husk protection      |    HP	   |   -       |	 √        |   √       |
+| Kernel row number    |    KRN    |	 -       |	 -        |   √       | 
+| Plant height         |    PH	   |   -       |	 √        |   -       |
+| Ear height           |    EH     |	 -       |	 √        |   -       |
+| Solidity             |    SOL    |	 √       |   -        |   -       |
+| Taper                |    TP     |	 √       |   -        |   -       |
+| Curvature            |    CUR    |	 √       |   -        |   -       |
+| Days to silking      |    DTS    |	 -       |	 -        |	  √       |
+| Husk appearence      |    HAP    |	 -       |   -        |	  √       |
+| Row appearence       |    RAP    |	 -       |   -        |	  √       |  
+| Ear shape            |    ES     |	 -       |	 -        |   √       |
+| Color rate           |    CR	   |   -       |   -        |   √       |
+| Flavor               |    FL     |	 -       |	 -        |   √       |
+| Texture              |    TXT    |	 -       |   -        |  	√       |
+| Rating               |    RT     |	 -       |   -        |   √       |
 
 
-| FirstName     | LastName      | City     |
-| ------------- | ------------- | -------- |
-| John          | Test1         | NewYork  |
-| Bob           | Test2         | Toronto  |
 
 
 Trait architectures where also used to perform a multi-trait breeding simulation for six traits that mimic important sweet corn fresh market traits. We evaluated the long-term effectiveness of GS implementation (30 years of simulation). 
