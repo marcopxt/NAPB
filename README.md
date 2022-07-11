@@ -41,7 +41,7 @@ A total of 513 hybrids were created from a collaboration between the University 
 | Texture              |    TXT    |	 -       |   -        |  	√       |
 | Rating               |    RT     |	 -       |   -        |   √       |
 
-< p>
+<div align="justify">
 
 
 Trait architectures where also used to perform a multi-trait breeding simulation for six traits that mimic important sweet corn fresh market traits. We evaluated the long-term effectiveness of GS implementation (30 years of simulation). 
