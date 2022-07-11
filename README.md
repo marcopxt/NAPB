@@ -14,6 +14,8 @@ Hybrid prediction through genomic selection (GS) is a tool that can reduce time 
 
 A total of 513 hybrids were created from a collaboration between the University of Florida and University of Wisconsin sweet corn breeding programs. Hybrids were assessed in three locations - Florida (FL), California (CA), and Wisconsin (WI) - in two consecutive years (2020-21). We compare the ability of two GS models (genomic best linear unbiased prediction -GBLUP- and reproducing kernel Hilbert space -RKHS) in single- and multi-trait framework (STM and MTM) for hybrid prediction. The models used accounted for additive (A) and additive + dominance (AD) effects. The traits assessed were as followed:
 
+**Table 1:** Traits measured in each site and used in the model precition. √: trait measured.
+
 <div align="center">
   
 |        Traits        |  Short    |	Florida	 | California |	Wisconsin |
