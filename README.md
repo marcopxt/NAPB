@@ -14,29 +14,29 @@ Hybrid prediction through genomic selection (GS) is a tool that can reduce time 
 
 A total of 513 hybrids were created from a collaboration between the University of Florida and University of Wisconsin sweet corn breeding programs. Hybrids were assessed in three locations - Florida (FL), California (CA), and Wisconsin (WI) - in two consecutive years (2020-21). We compare the ability of two GS models (genomic best linear unbiased prediction -GBLUP- and reproducing kernel Hilbert space -RKHS) in single- and multi-trait framework (STM and MTM) for hybrid prediction. The models used accounted for additive (A) and additive + dominance (AD) effects. The traits assessed were as followed:
 
-|           | Environments |
+|           | Environments                      |
 | --------- | --------- | --------- | --------- | 
 | Traits    |	Florida	  | California|	Wisconsin |
-|EL|	√|	√	|√ |
-|EW|	√	|√ |	√ |
-|TPF|	√|	√|	√|
-|STAND |	√|	√	| - |
-|DTP|	 -|	√	|√ |
-|HP	| -|	√	|√ |
-|KRN|	 -|	 -|√ |
-|PH	| -|	√	| -|
-|EH|	 -|	√	| -|
-|SOL|	√	| -	|- |
-|TP|	√	| -	| -|
-|CUR|	√	| -	| -|
-|DTS|	 -|	 -|	√|
-|HAP|	 -| - |	√ |
-|RAP|	 -| -|	√|
-|ES|	 -|	 -|√ |
-|CR	| -	| -	|√ |
-|FL|	 -|	 -|√ |
-|TXT|	 -| -|	√|
-|RT|	 -| -	|√ |
+|EL         |	√         |	√	        |√          |
+|EW         |	√	        |√          |	√         |
+|TPF        |	√         |	√         |	√         |
+|STAND      |	√         |	√	        | -         |
+|DTP        |	 -        |	√	        |√          |
+|HP	        | -         |	√	        |√          |
+|KRN        |	 -        |	 -        |√          | 
+|PH	        | -         |	√	        | -         |
+|EH         |	 -        |	√	        | -         |
+|SOL        |	√	        | -	        |-          |
+|TP         |	√	        | -	        | -         |
+|CUR        |	√	        | -	        | -         |
+|DTS        |	 -        |	 -        |	√         |
+|HAP        |	 -        | -         |	√         |
+|RAP        |	 -        | -         |	√         |  
+|ES         |	 -        |	 -        |√          |
+|CR	        | -	        | -	        |√          |
+|FL         |	 -        |	 -        |√          |
+|TXT        |	 -        | -         |	√         |
+|RT         |	 -        | -	        |√          |
 
 
 Trait architectures where also used to perform a multi-trait breeding simulation for six traits that mimic important sweet corn fresh market traits. We evaluated the long-term effectiveness of GS implementation (30 years of simulation). 
