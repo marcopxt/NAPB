@@ -47,9 +47,9 @@ A total of 513 hybrids were created from a collaboration between the University 
 
 Stochastic simulation were used to compare the implementation of genomic selection into the sweet corn breeding program. We used the trait architecture information to perform a multi-trait breeding simulation for six traits that mimic important sweet corn fresh market traits: EH, LA, EL, EW, KRN, and GRM. Three scenarios where simulated: 
   
-**Conventional breeding program (CONV):** A conventional sweet corn breeding program with phenotypic selection.
-**Genomic selection breeding program (CONVGS):**  A conventional sweet corn breeding program with genomic selection.
-**Double-haploid breeding program (DHGS):** A sweet corn breeding program with double-haploid and genomic selection.
+-**Conventional breeding program (CONV):** A conventional sweet corn breeding program with phenotypic selection.
+-**Genomic selection breeding program (CONVGS):**  A conventional sweet corn breeding program with genomic selection.
+-**Double-haploid breeding program (DHGS):** A sweet corn breeding program with double-haploid and genomic selection.
  
  These scenarios were compared using the mean of 50 replicates, each replicate consisting of: i. a burn-in phase, used in all scenarios as common starting point with 20 years of breeding, and, ii. an advanced phase of evaluation comprising of 30 years. 
   
