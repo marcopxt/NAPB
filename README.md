@@ -56,8 +56,8 @@ These scenarios were compared using the mean of 50 replicates, each replicate co
 ## 3. Results
 
 The RKHS models outperformed GBLUP models in across-year prediction (18%, 16%, 16% for CA, FL, and WI sites, respectively). The use of models accounting for AD effects increased the predictability in 15% (CA), 9% (FL), and 15% (WI) compared with the models with only A effects **(Figures 1-3)**. Overall, the MTM outperformed STM by 11%, 15%, and 14%, for CA, FL, and WI, respectively. 
- 
-![Florida](https://user-images.githubusercontent.com/59318360/178288346-5df30187-64c1-4d29-9acc-cabe34eea457.jpg)
+  
+ <img width="641" alt="Capturar" src="https://user-images.githubusercontent.com/59318360/178295542-8ff87428-f385-491d-b6e6-5c8343962b84.PNG">
 **Figure 1**: In across-year hybrid prediction accuracy for the traits assessed in Florida site. A: single-trait additive model. AD: single-trait additive + dominance model. MA: multi-trait additive model. MAD: multi-trait additive + dominance model.
 
 ![california](https://user-images.githubusercontent.com/59318360/178289000-1d6b11b3-518c-4cc4-a9f9-7da5c29283cb.jpg)
