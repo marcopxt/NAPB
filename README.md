@@ -20,28 +20,28 @@ A total of 513 hybrids were created from a collaboration between the University 
 
 <div align="center">
   
-|        Traits        |  Short    |	Florida	 | California |	Wisconsin |
-| :------------------: | :--------:| :-------: | :--------: | :-------: | 
-| **Ear length**       |    EL     |	 √       |	 √        |   √       |
-| Ear width            |    EW     |	 √       |   √        |	  √       |
-| Tip fill             |    TPF    |	 √       |	 √        |	  √       |
-| Stand count          |   STAND   |	 √       |	 √        |   -       |
-| Days to pollination  |    DTP    |	 -       |	 √        |   √       |
-| Husk protection      |    HP	   |   -       |	 √        |   √       |
-| Kernel row number    |    KRN    |	 -       |	 -        |   √       | 
-| Plant height         |    PH	   |   -       |	 √        |   -       |
-| Ear height           |    EH     |	 -       |	 √        |   -       |
-| Solidity             |    SOL    |	 √       |   -        |   -       |
-| Taper                |    TP     |	 √       |   -        |   -       |
-| Curvature            |    CUR    |	 √       |   -        |   -       |
-| Days to silking      |    DTS    |	 -       |	 -        |	  √       |
-| Husk appearence      |    HAP    |	 -       |   -        |	  √       |
-| Row appearence       |    RAP    |	 -       |   -        |	  √       |  
-| Ear shape            |    ES     |	 -       |	 -        |   √       |
-| Color rate           |    CR	   |   -       |   -        |   √       |
-| Flavor               |    FL     |	 -       |	 -        |   √       |
-| Texture              |    TXT    |	 -       |   -        |  	√       |
-| Rating               |    RT     |	 -       |   -        |   √       |
+|          Traits          |  Short    |	Florida	 | California |	Wisconsin |
+| :---------------------:  | :--------:| :-------: | :--------: | :-------: | 
+| **Ear length**           |    EL     |	 √       |	 √        |   √       |
+| **Ear width**            |    EW     |	 √       |   √        |	  √       |
+| **Tip fill**             |    TPF    |	 √       |	 √        |	  √       |
+| **Stand count**          |   STAND   |	 √       |	 √        |   -       |
+| **Days to pollination**  |    DTP    |	 -       |	 √        |   √       |
+| **Husk protection**      |    HP	   |   -       |	 √        |   √       |
+| **Kernel row number**    |    KRN    |	 -       |	 -        |   √       | 
+| **Plant height**         |    PH	   |   -       |	 √        |   -       |
+| **Ear height**           |    EH     |	 -       |	 √        |   -       |
+| **Solidity**             |    SOL    |	 √       |   -        |   -       |
+| **Taper**                |    TP     |	 √       |   -        |   -       |
+| **Curvature**            |    CUR    |	 √       |   -        |   -       |
+| **Days to silking**      |    DTS    |	 -       |	 -        |	  √       |
+| **Husk appearence**      |    HAP    |	 -       |   -        |	  √       |
+| **Row appearence**       |    RAP    |	 -       |   -        |	  √       |  
+| **Ear shape**            |    ES     |	 -       |	 -        |   √       |
+| **Color rate**           |    CR	   |   -       |   -        |   √       |
+| **Flavor**               |    FL     |	 -       |	 -        |   √       |
+| **Texture**              |    TXT    |	 -       |   -        |  	√       |
+| **Rating**               |    RT     |	 -       |   -        |   √       |
 
 <div align="justify">
 
