@@ -70,14 +70,14 @@ The RKHS models outperformed GBLUP models in across-year prediction (18%, 16%, 1
   
   
 
-Simulations indicated that hybrid performance differed depending on the target trait considered. Generally, some traits presented large hybrid gains over time while other traits presented only small hybrid gains.
+Simulations indicated that hybrid performance differed depending on the target trait considered. Generally, some traits presented large hybrid gains over time while other traits presented only small hybrid gains. 
   
 ![simu](https://user-images.githubusercontent.com/59318360/178289901-5ae3be5e-db93-4be9-8833-fd801c034e09.jpg)
-**Figure 4**. Hybrid gain overtime for the four simulated scenarios for the six traits simulated in a multitrait framework. The hybrid gain is plotted as a mean of the hybrids for each cycle. Each line represents the hybrid gain for the 50 replicates. CONV: A conventional sweet corn breeding program with phenotypic selection. CONVGS:  A conventional sweet corn breeding program with genomic selection. DHGS: A sweet corn breeding program with double-haploid and genomic selection.
+**Figure 4**. Hybrid gain overtime for the four simulated scenarios for the six traits simulated in a multitrait framework. The hybrid gain is plotted as a mean of the hybrids for each cycle. Each line represents the hybrid gain for the 50 replicates. CONV: A conventional sweet corn breeding program with phenotypic selection. CONVGS:  A conventional sweet corn breeding program with genomic selection. DHGS: A sweet corn breeding program with double-haploid and genomic selection. EH: ear heigth, LA: leaf angle, EL: ear length, EW: ear width, KRN: kernel row number, and GRM: germination.
 
 
 ## 4. Conclusion
 
-This study showed the potential of improving hybrid prediction in a sweet corn breeding program by considering RKHS, multitrait and, AD effects in a model. 
+This study showed the potential of improving hybrid prediction in a sweet corn breeding program by considering RKHS, multitrait and, AD effects in a model. The application of genomic selection in a long term returned large gain for some target traits. 
 
 
