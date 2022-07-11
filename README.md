@@ -57,17 +57,20 @@ These scenarios were compared using the mean of 50 replicates, each replicate co
 
 The RKHS models outperformed GBLUP models in across-year prediction (18%, 16%, 16% for CA, FL, and WI sites, respectively). The use of models accounting for AD effects increased the predictability in 15% (CA), 9% (FL), and 15% (WI) compared with the models with only A effects **(Figures 1-3)**. Overall, the MTM outperformed STM by 11%, 15%, and 14%, for CA, FL, and WI, respectively. 
  
- **Figure 1**: Predcition accuracy for the traits in Florida...
+ 
  ![Florida](https://user-images.githubusercontent.com/59318360/178288346-5df30187-64c1-4d29-9acc-cabe34eea457.jpg)
-
- **Figure 2**: Predcition accuracy for the traits from California...
-  ![california](https://user-images.githubusercontent.com/59318360/178289000-1d6b11b3-518c-4cc4-a9f9-7da5c29283cb.jpg)
+**Figure 1**: In across-year prediction accuracy for the traits assessed in Florida site. A: single-trait additive model. AD: single-trait additive + dominance model. MA: multi-trait additive model. MAD: multi-trait additive + dominance model.![image](https://user-images.githubusercontent.com/59318360/178294148-d184e3a9-5675-474c-a10f-d87d2ee47877.png)
 
   
- **Figure 3**: Predcition accuracy for the traits from Wisconsin...
+  
+
+  ![california](https://user-images.githubusercontent.com/59318360/178289000-1d6b11b3-518c-4cc4-a9f9-7da5c29283cb.jpg)
+ **Figure 2**: Predcition accuracy for the traits from California...
+  
+
   
   ![wisconsin](https://user-images.githubusercontent.com/59318360/178289023-595e8199-7103-4628-8833-5faadf1cece7.jpg)
-
+ **Figure 3**: Predcition accuracy for the traits from Wisconsin...
   
   
   
