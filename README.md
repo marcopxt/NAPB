@@ -51,11 +51,28 @@ Stochastic simulation were used to compare the implementation of genomic selecti
 - **Genomic selection breeding program (CONVGS):**  A conventional sweet corn breeding program with genomic selection.
 - **Double-haploid breeding program (DHGS):** A sweet corn breeding program with double-haploid and genomic selection.
  
- These scenarios were compared using the mean of 50 replicates, each replicate consisting of: i. a burn-in phase, used in all scenarios as common starting point with 20 years of breeding, and, ii. an advanced phase of evaluation comprising of 30 years. 
+These scenarios were compared using the mean of 50 replicates, each replicate consisting of: i. a burn-in phase, used in all scenarios as common starting point with 20 years of breeding, and, ii. an advanced phase of evaluation comprising of 30 years. 
   
 ## 3. Results
 
-The RKHS models outperformed GBLUP models in across-year prediction (18%, 16%, 16% for CA, FL, and WI sites, respectively). The use of models accounting for AD effects increased the predictability in 15% (CA), 9% (FL), and 15% (WI) compared with the models with only A effects. Overall, the MTM outperformed STM by 11%, 15%, and 14%, for CA, FL, and WI, respectively. Simulations indicated that hybrid performance differed depending on the target trait considered. Generally, some traits presented large hybrid gains over time while other traits presented only small hybrid gains. 
+The RKHS models outperformed GBLUP models in across-year prediction (18%, 16%, 16% for CA, FL, and WI sites, respectively). The use of models accounting for AD effects increased the predictability in 15% (CA), 9% (FL), and 15% (WI) compared with the models with only A effects **(Figures 1-3)**. Overall, the MTM outperformed STM by 11%, 15%, and 14%, for CA, FL, and WI, respectively. 
+ 
+ **Figure 1**: Predcition accuracy for the traits in Florida...
+ ![Florida](https://user-images.githubusercontent.com/59318360/178288346-5df30187-64c1-4d29-9acc-cabe34eea457.jpg)
+
+ **Figure 2**: Predcition accuracy for the traits from California...
+  ![california](https://user-images.githubusercontent.com/59318360/178289000-1d6b11b3-518c-4cc4-a9f9-7da5c29283cb.jpg)
+
+  
+ **Figure 3**: Predcition accuracy for the traits from Wisconsin...
+  
+  ![wisconsin](https://user-images.githubusercontent.com/59318360/178289023-595e8199-7103-4628-8833-5faadf1cece7.jpg)
+
+  
+  
+  
+  
+ Simulations indicated that hybrid performance differed depending on the target trait considered. Generally, some traits presented large hybrid gains over time while other traits presented only small hybrid gains. 
 
 
 ## 4. Conclusion
