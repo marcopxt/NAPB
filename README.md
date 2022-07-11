@@ -17,26 +17,26 @@ A total of 513 hybrids were created from a collaboration between the University 
 |           | Environments
 | --------- | --------- | --------- | --------- | 
 | Traits    |	Florida	  | California|	Wisconsin |
-|EL|	√|	√	|√|
-|EW|	√	|√|	√|
+|EL|	√|	√	|√ |
+|EW|	√	|√ |	√ |
 |TPF|	√|	√|	√|
-|STAND|	√|	√	| - |
-|DTP|	 -|	√	|√|
-|HP	| -|	√	|√|
-|KRN|	 -|	 -	|√|
+|STAND |	√|	√	| - |
+|DTP|	 -|	√	|√ |
+|HP	| -|	√	|√ |
+|KRN|	 -|	 -|√ |
 |PH	| -|	√	| -|
 |EH|	 -|	√	| -|
-|SOL|	√	| -	 |-|
+|SOL|	√	| -	|- |
 |TP|	√	| -	| -|
 |CUR|	√	| -	| -|
 |DTS|	 -|	 -|	√|
-|HAP|	 -	| -|	√|
-|RAP|	 -	| -|	√|
-|ES|	 -|	 -	|√|
-|CR	| -	| -	|√|
-|FL|	 -|	 -	|√|
-|TXT|	 -	| -|	√|
-|RT|	 -	| -	|√|
+|HAP|	 -| - |	√ |
+|RAP|	 -| -|	√|
+|ES|	 -|	 -|√ |
+|CR	| -	| -	|√ |
+|FL|	 -|	 -|√ |
+|TXT|	 -| -|	√|
+|RT|	 -| -	|√ |
 
 
 Trait architectures where also used to perform a multi-trait breeding simulation for six traits that mimic important sweet corn fresh market traits. We evaluated the long-term effectiveness of GS implementation (30 years of simulation). 
