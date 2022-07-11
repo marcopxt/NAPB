@@ -6,6 +6,7 @@ Marco Antônio Peixoto<sup>1,2 </sup>, Kristen Leach <sup>1 </sup>, Leonardo Bhe
 
 ![image](https://user-images.githubusercontent.com/59318360/177633208-152de0c7-6e41-4b83-b1f9-d4292ff0d7a9.png)
 
+<div align="justify">
 ## 1. Introduction
 
 Hybrid prediction through genomic selection (GS) is a tool that can reduce time and costs related with the generation of successful hybrids. The development of GS prediction models is expected to increase the probability of superior hybrids reaching advanced field-testing stages. In this study we explore the potential of implementing GS in a sweet corn breeding program through hybrid prediction in an across-year framework and we validate the implementation of genomic selection in a long-term in the sweet corn breeding program by stochastic simulations.
