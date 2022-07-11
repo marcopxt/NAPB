@@ -57,25 +57,19 @@ These scenarios were compared using the mean of 50 replicates, each replicate co
 
 The RKHS models outperformed GBLUP models in across-year prediction (18%, 16%, 16% for CA, FL, and WI sites, respectively). The use of models accounting for AD effects increased the predictability in 15% (CA), 9% (FL), and 15% (WI) compared with the models with only A effects **(Figures 1-3)**. Overall, the MTM outperformed STM by 11%, 15%, and 14%, for CA, FL, and WI, respectively. 
  
- 
- ![Florida](https://user-images.githubusercontent.com/59318360/178288346-5df30187-64c1-4d29-9acc-cabe34eea457.jpg)
+![Florida](https://user-images.githubusercontent.com/59318360/178288346-5df30187-64c1-4d29-9acc-cabe34eea457.jpg)
 **Figure 1**: In across-year hybrid prediction accuracy for the traits assessed in Florida site. A: single-trait additive model. AD: single-trait additive + dominance model. MA: multi-trait additive model. MAD: multi-trait additive + dominance model.
 
-  ![california](https://user-images.githubusercontent.com/59318360/178289000-1d6b11b3-518c-4cc4-a9f9-7da5c29283cb.jpg)
+![california](https://user-images.githubusercontent.com/59318360/178289000-1d6b11b3-518c-4cc4-a9f9-7da5c29283cb.jpg)
 **Figure 2**: In across-year hybrid prediction accuracy for the traits assessed in California site. A: single-trait additive model. AD: single-trait additive + dominance model. MA: multi-trait additive model. MAD: multi-trait additive + dominance model.
   
-  ![wisconsin](https://user-images.githubusercontent.com/59318360/178289023-595e8199-7103-4628-8833-5faadf1cece7.jpg)
+![wisconsin](https://user-images.githubusercontent.com/59318360/178289023-595e8199-7103-4628-8833-5faadf1cece7.jpg)
 **Figure 3**: In across-year hybrid prediction accuracy for the traits assessed in Wisconsin site. A: single-trait additive model. AD: single-trait additive + dominance model. MA: multi-trait additive model. MAD: multi-trait additive + dominance model.
+    
+Simulations indicated that hybrid performance differed depending on the target trait considered. Generally, some traits presented large hybrid gains over time while other traits presented only small hybrid gains.
   
-  
-  
-  
- Simulations indicated that hybrid performance differed depending on the target trait considered. Generally, some traits presented large hybrid gains over time while other traits presented only small hybrid gains.
-  
+![simu](https://user-images.githubusercontent.com/59318360/178289901-5ae3be5e-db93-4be9-8833-fd801c034e09.jpg)
 **Figure 4**. Hybrid gain overtime for the four simulated scenarios for a trait with a broad sense heritability of 0.3. Results are show under genotype-by-environment (G×E) interaction of 0 (G×E 0), 1 (G×E 30), and 4 (G×E 120) times the additive effect. The hybrid gain is plotted as a mean of the hybrids for each cycle. Each line represents the hybrid gain for the 50 replicates and the shading represents the standard error. CONVe: conventional breeding program. CONVe_HTP: conventional breeding program with high throughput phenotyping. GSe: conventional breeding program with genomic selection. GSe_HTP: conventional breeding program with genomic selection and high throughput phenotyping.
-  
-  ![simu](https://user-images.githubusercontent.com/59318360/178289901-5ae3be5e-db93-4be9-8833-fd801c034e09.jpg)
-
 
 
 ## 4. Conclusion
