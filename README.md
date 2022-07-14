@@ -61,10 +61,12 @@ The RKHS models outperformed GBLUP models in across-year prediction (18%, 16%, 1
 
 **Figure 1**: In across-year hybrid prediction accuracy for the traits assessed in Florida site. A: single-trait additive model. AD: single-trait additive + dominance model. MA: multi-trait additive model. MAD: multi-trait additive + dominance model.
 
-![california](https://user-images.githubusercontent.com/59318360/178289000-1d6b11b3-518c-4cc4-a9f9-7da5c29283cb.jpg)
+![california](https://user-images.githubusercontent.com/59318360/179002870-2ef812d6-890f-48b9-a79a-59808d487958.png)
+
 **Figure 2**: In across-year hybrid prediction accuracy for the traits assessed in California site. A: single-trait additive model. AD: single-trait additive + dominance model. MA: multi-trait additive model. MAD: multi-trait additive + dominance model.
   
-![wisconsin](https://user-images.githubusercontent.com/59318360/178289023-595e8199-7103-4628-8833-5faadf1cece7.jpg)
+![wisconsin](https://user-images.githubusercontent.com/59318360/179002922-5cc3a95b-0ae2-47e9-8584-20a924f0793a.png)
+ 
 **Figure 3**: In across-year hybrid prediction accuracy for the traits assessed in Wisconsin site. A: single-trait additive model. AD: single-trait additive + dominance model. MA: multi-trait additive model. MAD: multi-trait additive + dominance model.
 
  
