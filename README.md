@@ -49,7 +49,7 @@ Stochastic simulation were used to compare the implementation of genomic selecti
   
 - **Conventional breeding program (CONV):** A conventional sweet corn breeding program with phenotypic selection.
 - **Genomic selection breeding program (CONVGS):**  A conventional sweet corn breeding program with genomic selection.
-- **Double-haploid breeding program (DHGS):** A sweet corn breeding program with double-haploid and genomic selection.
+- **Double-haploid breeding program (DH):** A sweet corn breeding program with double-haploid and genomic selection.
  
 These scenarios were compared using the mean of 50 replicates, each replicate consisting of: i. a burn-in phase, used in all scenarios as common starting point with 20 years of breeding, and, ii. an advanced phase of evaluation comprising of 30 years. 
   
@@ -75,7 +75,8 @@ Simulations indicated that hybrid performance differed depending on the target t
   
 ![simulation_NAPB](https://user-images.githubusercontent.com/59318360/179001056-100133f4-75cb-4b74-8e25-10b4c42b5463.png)
 
-**Figure 4**. Hybrid gain overtime for the four simulated scenarios for the six traits simulated in a multitrait framework. The hybrid gain is plotted as a mean of the hybrids for each cycle. Each line represents the hybrid gain for the 50 replicates. CONV: A conventional sweet corn breeding program with phenotypic selection. CONVGS:  A conventional sweet corn breeding program with genomic selection. DHGS: A sweet corn breeding program with double-haploid and genomic selection. EH: ear heigth, LA: leaf angle, EL: ear length, EW: ear width, KRN: kernel row number, and GRM: germination.
+**Figure 4**. Hybrid gain overtime for the four simulated scenarios for the six traits simulated in a multitrait framework. The hybrid gain is plotted as a mean of the hybrids for each cycle. Each line represents the hybrid gain for the 50 replicates. CONV: A conventional sweet corn breeding program with phenotypic selection. CONVGS:  A conventional sweet corn breeding program with genomic selection. DHGS: A sweet corn breeding program with double-haploid and genomic selection. EL: Ear length. EW: Ear width. TPF: tip fill. KRN: kernel row number. CUR: curvature. SOL: solidity.
+
 
 
 ## 4. Conclusion
