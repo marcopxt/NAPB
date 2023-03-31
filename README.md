@@ -85,6 +85,6 @@ Simulations indicated that hybrid performance differed depending on the target t
 
 ## 4. Conclusion
 
-This study showed the potential of improving hybrid prediction in a sweet corn breeding program by considering RKHS, multitrait and, AD effects in a model. The application of genomic selection in a long term returned large gain for some target traits. 
+This study show the potential of improving hybrid prediction in a sweet corn breeding program by considering RKHS, multitrait and, AD effects in a model. The application of genomic selection in a long-term framework returns large gains for some target traits. 
 
 
